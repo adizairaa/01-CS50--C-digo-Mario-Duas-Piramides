@@ -1,6 +1,6 @@
 # 🏗️ *Pyramid Builder - Mario Style*
 
-Este repositório contém um programa em *C* que gera uma pirâmide semelhante àquela encontrada no jogo Super Mario. Este projeto é inspirado no curso da CS50, demonstrando conceitos básicos de lógica de programação, loops, e funções.
+Este repositório contém um programa em *C* que gera uma pirâmide semelhante àquela encontrada no jogo Super Mario. Este projeto da primeira unidade do curso da CS50, demonstrando conceitos básicos de lógica de programação, loops, e funções.
 
 ---
 
